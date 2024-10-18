@@ -1,16 +1,16 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer I',
-    company: "Teton Private Ltd.",
-    duration: "(Jan 2022 - Present)"
+    title: 'Medecro HealthHack"24 finalist',
+    company: "medecro.ai",
+    duration: "(Aug 2024 - Oct 2024)"
   },
-  {
-    id: 2,
-    title: "FullStack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2021 - Jan 2022)"
-  },
+  // {
+  //   id: 2,
+  //   title: "FullStack Developer",
+  //   company: "Fiverr (freelance)",
+  //   duration: "(Jun 2021 - Jan 2022)"
+  // },
   {
     id: 3,
     title: "Self Employed",
