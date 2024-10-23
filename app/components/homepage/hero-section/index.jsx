@@ -70,7 +70,7 @@ function HeroSection() {
 
     const handleMouseOut = () => {
       ctx.clearRect(0, 0, canvas.width, canvas.height);
-      drawDots()
+      drawDots();
     };
 
     bannerRef.current.addEventListener('mousemove', handleMouseMove);
@@ -82,7 +82,6 @@ function HeroSection() {
       bannerRef.current.removeEventListener('mouseout', handleMouseOut);
     };
   }, []);
-  
    
 
   return (
